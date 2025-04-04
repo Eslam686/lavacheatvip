@@ -1,4 +1,7 @@
 Global-> Safe Normal
+
 Korean-> Safe 99%
+
 Taiwan-> Safe 99%
+
 Vietnam-> Safe 99%
