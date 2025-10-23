@@ -2,29 +2,29 @@
   {
     "name": "Global armeabi-v7a",
     "desc": "Lava Cheat 32 Bit",
-    "version": "4.1.0",
+    "version": "4.0.0",
     "url": "https://github.com/Eslam686/lavacheatvip/releases/download/Lavaaa/PUBG.4.0.GL.32.BIT.@PubgApkObb.apk",
     "enabled": true
   },
   {
     "name": "Korean armeabi-v7a",
     "desc": "Lava Cheat 32 Bit",
-    "version": "4.1.0",
+    "version": "4.0.0",
     "url": "https://example.com/app2.apk",
-    "enabled": false
+    "enabled": true
   },
   {
     "name": "Taiwan armeabi-v7a",
     "desc": "Lava Cheat 32 Bit",
-    "version": "4.1.0",
+    "version": "4.0.0",
     "url": "https://example.com/app3.apk",
-    "enabled": true
+    "enabled": false
   },
   {
     "name": "Vietnam armeabi-v7a",
     "desc": "Lava Cheat 32 Bit",
-    "version": "4.1.0",
+    "version": "4.0.0",
     "url": "https://example.com/app4.apk",
-    "enabled": true
+    "enabled": false
   }
 ]
