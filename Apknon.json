@@ -3,7 +3,7 @@
     "name": "Global arm64-v8a",
     "desc": "Lava Cheat 64 Bit",
     "version": "4.1.0",
-    "url": "https://github.com/Eslam686/lavacheatvip/releases/download/Lavaaa/P",
+    "url": "https://github.com/Eslam686/lavacheatvip/releases/download/Lavaaa/PUBG.4.1.VN.LAVA.64.BIT.apk",
     "enabled": true,
     "package": "com.tencent.ig"
   },
@@ -11,7 +11,7 @@
     "name": "Korean arm64-v8a",
     "desc": "Lava Cheat 64 Bit",
     "version": "4.1.0",
-    "url": "https://github.com/Eslam686/lavacheatvip/releases/download/Lavaaa/PUBG.4.1.KR.LAVA.64.BIT.apk",
+    "url": "https://github.com/Eslam686/lavacheatvip/releases/download/Lavaaa/PUBG.4.1.VN.LAVA.64.BIT.apk",
     "enabled": true,
     "package": "com.pubg.krmobile"
   },
@@ -19,7 +19,7 @@
     "name": "Taiwan arm64-v8a",
     "desc": "Lava Cheat 64 Bit",
     "version": "4.1.0",
-    "url": "https://github.com/Eslam686/lavacheatvip/releases/download/Lavaaa/PUBG.4.1.TW.LAVA.64.BIT.apk",
+    "url": "https://github.com/Eslam686/lavacheatvip/releases/download/Lavaaa/PUBG.4.1.VN.LAVA.64.BIT.apk",
     "enabled": true,
     "package": "com.rekoo.pubgm"
   },
